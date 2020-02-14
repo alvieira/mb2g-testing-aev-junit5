@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-02-14T02:31:55Z" name="Surefire suite" finished-at="2020-02-14T02:31:55Z" duration-ms="422">
+  <suite started-at="2020-02-14T03:10:59Z" name="Surefire suite" finished-at="2020-02-14T03:10:59Z" duration-ms="390">
     <groups>
     </groups>
-    <test started-at="2020-02-14T02:31:55Z" name="Surefire test" finished-at="2020-02-14T02:31:55Z" duration-ms="422">
+    <test started-at="2020-02-14T03:10:59Z" name="Surefire test" finished-at="2020-02-14T03:10:59Z" duration-ms="390">
       <class name="guru.springframework.JUnit4Test">
-        <test-method signature="dummyTest()" started-at="2020-02-13T23:31:55Z" name="dummyTest" finished-at="2020-02-13T23:31:55Z" duration-ms="11" status="PASS">
+        <test-method signature="dummyTest()" started-at="2020-02-14T00:10:59Z" name="dummyTest" finished-at="2020-02-14T00:10:59Z" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dummyTest -->
       </class> <!-- guru.springframework.JUnit4Test -->
       <class name="guru.springframework.JavaHelloWorldSpecTest">
-        <test-method signature="GetHello(guru.springframework.JavaHelloWorldSpecTest)" started-at="2020-02-13T23:31:55Z" name="GetHello" finished-at="2020-02-13T23:31:55Z" duration-ms="304" status="PASS">
+        <test-method signature="GetHello(guru.springframework.JavaHelloWorldSpecTest)" started-at="2020-02-14T00:10:59Z" name="GetHello" finished-at="2020-02-14T00:10:59Z" duration-ms="271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetHello -->
