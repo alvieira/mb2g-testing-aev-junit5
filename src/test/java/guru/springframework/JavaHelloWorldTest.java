@@ -1,12 +1,14 @@
 package guru.springframework;
 
-public class JavaHelloWorldTest {
+import org.junit.jupiter.api.Test;
 
-	public void testGetHello() {
+class JavaHelloWorldTest {
 
-		JavaHelloWorld javaHelloWorld = new JavaHelloWorld();
+	@Test
+	void getHello() {
 
-		assert ("Hello World".equals(javaHelloWorld.getHello()));
+		System.out.println("#####################");
+		System.out.println(System.getenv("TEST_HOST"));
 	}
 
 }
